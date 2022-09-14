@@ -1,6 +1,6 @@
-name: 'aliyun-ecs-action'
+name: 'Aliyun ECS Action'
 description: 'Aliyun ECS Action'
-author: 'Kimmy'
+author: 'kimmy214'
 inputs:
   milliseconds: # change this
     required: true
